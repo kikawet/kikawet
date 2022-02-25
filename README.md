@@ -8,7 +8,7 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats-kikawet.vercel.app/api/?username=kikawet&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats-kikawet.vercel.app/api/top-langs/?username=kikawet&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-kikawet.vercel.app/api/top-langs/?username=kikawet&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true" />
     </td>
   </tr>
 </table>
