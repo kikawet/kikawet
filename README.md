@@ -8,12 +8,15 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats-kikawet.vercel.app/api/?username=kikawet&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats-kikawet.vercel.app/api/top-langs/?username=kikawet&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats-kikawet.vercel.app/api/top-langs/?username=kikawet&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&hide=XSLT" />
     </td>
   </tr>
 </table>
 
 > Provided by [`GitHub Readme Stats`]
+
+<!----------------- LINKS --------------->
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **kikawet/kikawet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
