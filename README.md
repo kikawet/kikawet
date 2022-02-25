@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋     <img src="https://komarev.com/ghpvc/?username=kikawet" alt="" align="center" />
 
 ### 👀 Quick Statistics
 
