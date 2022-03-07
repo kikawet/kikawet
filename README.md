@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github.com/kikawet/github-stats/blob/master/generated/overview.svg" />
+      <img align="center" style="padding=0;" src="https://github.com/kikawet/kikawet/blob/master/stats/overview.svg" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github.com/kikawet/github-stats/blob/master/generated/languages.svg" />
+      <img align="center" style="padding=0;" src="https://github.com/kikawet/kikawet/blob/master/stats/languages.svg" />
     </td>
   </tr>
 </table>
